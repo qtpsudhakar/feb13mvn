@@ -95,7 +95,7 @@ public class OhrmAddEmployee_ExtentReports {
 				"sudhakar");
 		test.log(LogStatus.PASS,"text enetered password");
 		// click on login button
-		driver.findElement(By.cssSelector("#btnLogin")).click();
+		driver.findElement(By.cssSelector("#btnLogin1")).click();
 		test.log(LogStatus.PASS,"Clicked on login Button");
 		}
 		catch(NoSuchElementException nse){
