@@ -1,0 +1,7 @@
+<suite name="regression">
+	<test name="marC1">
+		<classes>
+			<class name="com.wd.tng.OhrmAddEmployee_ExtentReports" />
+		</classes>
+	</test>
+</suite>
